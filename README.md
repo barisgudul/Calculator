@@ -14,4 +14,4 @@ This repository contains a simple console-based program written in C that perfor
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-math-operations.git
+   git clone https://github.com/barisgudul/Calculator.git
